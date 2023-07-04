@@ -2,7 +2,7 @@
 
 :root {
     --font-family: 'Montserrat', sans-serif;
-    --bg-color: #0AA1DD;
+    --bg-color: #A084DC;
     --primary-color: #E8F9FD;
 }
 
@@ -53,4 +53,6 @@ h3 {
     background-color: var(--primary-color);
     font-size: 1em;
 }
+
+
 
